@@ -4,5 +4,5 @@
 It is a free project for Multiplication in Python
 
 <br>
-# Dependecies
+### Dependecies:
 * Python
